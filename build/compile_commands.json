@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/vb/openSource/CppHttpDemo/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vb/openSource/CppHttpDemo/./common  -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/httpserver.dir/httpserver/http_server.cpp.o -c /Users/vb/openSource/CppHttpDemo/httpserver/http_server.cpp",
+  "file": "/Users/vb/openSource/CppHttpDemo/httpserver/http_server.cpp"
+},
+{
+  "directory": "/Users/vb/openSource/CppHttpDemo/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vb/openSource/CppHttpDemo/./common  -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/httpserver.dir/httpserver/main.cpp.o -c /Users/vb/openSource/CppHttpDemo/httpserver/main.cpp",
+  "file": "/Users/vb/openSource/CppHttpDemo/httpserver/main.cpp"
+},
+{
+  "directory": "/Users/vb/openSource/CppHttpDemo/build/common",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -I/Users/vb/openSource/CppHttpDemo/./common  -std=c99 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -o CMakeFiles/common.dir/mongoose.c.o -c /Users/vb/openSource/CppHttpDemo/common/mongoose.c",
+  "file": "/Users/vb/openSource/CppHttpDemo/common/mongoose.c"
+}
+]
